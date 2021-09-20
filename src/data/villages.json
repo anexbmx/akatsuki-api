@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Iwagakure",
+        "summary": "Iwagakure (岩隠れの里, Iwagakure no Sato, English TV: Hidden Stone Village, literally meaning: Village Hidden by Rocks) is the hidden village of the Land of Earth. As the village of one of the Five Great Shinobi Countries, Iwagakure has a Kage as its leader known as the Tsuchikage, of which there have been four in its history.",
+        "leader": "Tsuchikage",
+        "country": "Land of Earth"
+    },
+    {
+        "name": "Yugakure",
+        "summary": "Yugakure (湯隠れの里, Yugakure no Sato, literally meaning: Village Hidden in Hot Water) is the hidden village of the Land of Hot Water. Like the country in which it resides, Yugakure has strong inclinations towards pacifism. After years of reluctantly offering combat-related services, Yugakure officially transitioned away from the typical shinobi missions; it prides itself as the 'village that has forgotten wars' (戦を忘れた里, Ikusa o Wasureta Sato).",
+        "leader": "Unknown",
+        "country": "Land of Hot Water"
+    },
+    {
+        "name": "Konohagakure",
+        "summary": "Konohagakure (木ノ葉隠れの里, Konohagakure no Sato, English TV: 'Village Hidden in the Leaves' or 'Hidden Leaf Village', literally meaning: Village Hidden by Tree Leaves) is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history",
+        "leader": "Hokage",
+        "country": "Land of Fire"
+    },
+    {
+        "name": "Kirigakure",
+        "summary": "Kirigakure (霧隠れの里, Kirigakure no Sato, English TV: Village Hidden in the Mist, literally meaning: Village Hidden by Mist) is the hidden village of the Land of Water. As the village of one of the Five Great Shinobi Countries, Kiri has a Kage as its leader known as the Mizukage, of which there have been six in its history.",
+        "leader": "Mizukage",
+        "country": "Land of Water"
+    },
+    {
+        "name": "Takigakure",
+        "summary": "Takigakure (滝隠れの里, Takigakure no Sato, literally meaning: Village Hidden by a Waterfall) is a village located in an unnamed country. In terms of the village's appearance, Takigakure seems to be based on mostly Southeast Asian aesthetics. Their current leader is Shibuki.",
+        "leader": "Unknown",
+        "country": "Unknown"
+    },
+    {
+        "name": "Amegakure",
+        "summary": "Amegakure (雨隠れの里, Amegakure no Sato, literally meaning: Village Hidden by Rain) is a small but highly industrialised hidden village located in an unnamed country. As its name suggests, it rains almost constantly in Amegakure and the surrounding area. All the water seemingly ends in a large lake that surrounds the village.",
+        "leader": "Unknown",
+        "country": "Unknown"
+    },
+    {
+        "name": "Sunagakure",
+        "summary": "Sunagakure (砂隠れの里, Sunagakure no Sato, literally meaning: Village Hidden by Sand) is the hidden village of the Land of Wind. As the village of one of the Five Great Shinobi Countries, Sunagakure has a Kage as its leader known as the Kazekage, of which there have been five in its history. ",
+        "leader": "Kazekage",
+        "country": "Land of Wind"
+    }
+]

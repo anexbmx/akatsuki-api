@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Akatsuki",
+        "japonaiseName": "暁",
+        "summary": "Akatsuki (暁, literally meaning: 'Dawn' or 'Daybreak') was a group of shinobi that existed outside the usual system of hidden villages. Over the course of several decades, Akatsuki took different forms and was led by different individuals. Though each iteration is viewed as either subversives or criminals, all seek to make the world a better place through their own means. Each Akatsuki tended to have multiple lairs across the world, inaccessible either due to their remoteness or the various security measures that protected them.",
+        "firstAppear": {
+            "manga": "Manga Chapter #139",
+            "anime": "Naruto Episode #80"
+        },
+        "leaders": ["Yahiko", "Nagato", "Obito Uchiha", "Shin Uchiha"]
+    }
+]
