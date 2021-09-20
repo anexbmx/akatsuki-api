@@ -1,0 +1,26 @@
+{
+  "name": "akatsuki-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anexbmx/akatsuki-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anexbmx/akatsuki-api/issues"
+  },
+  "homepage": "https://github.com/anexbmx/akatsuki-api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.6"
+  }
+}
